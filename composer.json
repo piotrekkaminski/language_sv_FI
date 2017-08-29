@@ -1,9 +1,9 @@
 {
-    "name": "magento2translations/language_sv_fi",
+    "name": "piotrekkaminski/language_sv_fi",
     "description": "Swedish (svenska) Magento2 Language Pack (sv_FI) - Crowdsourced",
     "homepage": "http://magento2translations.github.io/",
     "license": [
-        "OSL-3.0",
+        "OSL-3.0"
     ],
     "authors": [
         {
